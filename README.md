@@ -1,2 +1,0 @@
-# Nerve
-App for iOS
